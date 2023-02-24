@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\Name\source\repos\DollGame\DollGame\prop.h(1,1): warning C4828: 文件包含在偏移 0xcf6 处开始的字符，该字符在当前源字符集中无效(代码页 936)。
+C:\Users\Name\source\repos\DollGame\DollGame\random.h(104,75): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+C:\Users\Name\source\repos\DollGame\DollGame\random.h(105,75): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+  DollGame.vcxproj -> C:\Users\Name\source\repos\DollGame\x64\Debug\DollGame.exe
